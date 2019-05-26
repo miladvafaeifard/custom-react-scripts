@@ -29,3 +29,9 @@ npm uninstall custom-react-scripts
 ```shell
 npm link custom-react-scripts`
 ```
+
+## Further information
+
+- https://preset-env.cssdb.org/
+- https://cssnext.github.io/
+- https://www.linkedin.com/learning/getting-started-with-css-for-react-developers/
